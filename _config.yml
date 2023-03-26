@@ -1,6 +1,6 @@
 resume_url: "Resume.pdf"
 author_name: "David Zhu"
-# url: johndoe.com
+url: dynam1cdave.github.io
 
 plugins:
   - jekyll-seo-tag
