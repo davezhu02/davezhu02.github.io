@@ -1,6 +1,7 @@
-resume_url: "Resume.pdf"
+resume_url: "CV.pdf"
 author_name: "David Zhu"
-url: dynam1cdave.github.io
+url: davezhu02.github.io
+description: Welcome to my website! I am an aspiring actuary. 
 
 plugins:
   - jekyll-seo-tag
