@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Financial Mathematics student, enthuasistic about financial markets and actuarial science. 
+home_text: Financial Mathematics student in penultimate year
 title: David Zhu
 ---

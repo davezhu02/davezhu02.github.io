@@ -3,6 +3,7 @@ author_name: "David Zhu"
 url: davezhu02.github.io
 description: Welcome to my website! I am an aspiring actuary. 
 
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
