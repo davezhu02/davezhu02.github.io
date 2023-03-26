@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hey, I think you stole my dog - John Wick
-title: Rohit Jain
+home_text: Welcome to my profile! I am an aspiring actuary.
+title: David Zhu
 ---
