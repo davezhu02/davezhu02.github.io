@@ -6,7 +6,7 @@ permalink: /about/
 
 Greetings!
 
-I study Financial Mathematics with a year in industry at University of Kent, currently in my second year. Here, I will be regularly updating my portfolio and you'd find why I will be the right employee for your company :D
+I study Financial Mathematics with a year in industry at University of Kent, currently in my second year. Here, I will be regularly updating my project portfolio and you'd find why I will be the right employee for your company :D
 
 [**Here is my Linkedin**](https://www.linkedin.com/in/david-zhu-1868b11b7/).
 
@@ -29,8 +29,8 @@ These are projects that are either incomplete or complete. I chose to do them in
 
     * Functions being used : **RANDBETWEEN** for home and away teams to be chosen into two columns seprating the variables, **VLOOPUP** to look up the expected goals for each team based on whether they are playing home or away. **POISSON** is self-explanatory. **COUNT-IF** is used for combinatorics. **CHART** is for data visuals for patterns and trends. 
 
-## R STUDIO CRICKET DUCK LEWIS MODEL(INCOMPLETE) 
+## CRICKET DUCK LEWIS MODEL (RSTUDIO) (INCOMPLETE) 
 
-## R STUDIO ANALYSIS OF MOTOR FEATURES(INCOMPLETE)
+## ANALYSIS OF MOTOR FEATURES (RSTUDIO) (INCOMPLETE)
 
-## UNITY TRIP SHIFT (INCOMPLETE)
+## TRIP SHIFT (UNITY) (INCOMPLETE)
