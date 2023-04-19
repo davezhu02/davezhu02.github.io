@@ -1,14 +1,14 @@
 ---
 layout: description
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 Greetings!
 
 I study Financial Mathematics with a year in industry at University of Kent, currently in my second year. Here, I will be regularly updating my portfolio and you'd find why I will be the right employee for your company :D
 
-[**Here is my Linkedin for the insight**](https://www.linkedin.com/in/david-zhu-1868b11b7/).
+[**Here is my Linkedin**](https://www.linkedin.com/in/david-zhu-1868b11b7/).
 
 
 
