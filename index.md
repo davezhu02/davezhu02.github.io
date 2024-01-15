@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Financial Mathematics student in penultimate year
+home_text: Financial Mathematics student 
 title: David Zhu
 ---
